@@ -150,3 +150,40 @@ Planned enhancements:
 ## Disclaimer
 
 Sensitive production, database and organizational information have been removed or anonymized for portfolio purposes.
+---
+
+## Project Evidence
+
+### Operational Monitoring Email
+
+![Operational Monitoring](Screenshots/Screenshot%20tela%20operacional.png)
+
+---
+
+### Complete Monitoring Email
+
+![Complete Monitoring](Screenshots/screenshot%20tela%20completo.png)
+
+---
+
+### Task Scheduler Automation
+
+Automated unattended execution configured using Windows Task Scheduler.
+
+![Task Scheduler](Screenshots/screenshot%20scheduler.png)
+
+---
+
+### Script Execution
+
+Real execution of the monitoring automation.
+
+![Script Execution](Screenshots/screenshot%20script%20rodando.png)
+
+---
+
+### Development Environment
+
+Python development and implementation environment.
+
+![Development Environment](Screenshots/screenshot%20vs%20code.png)
